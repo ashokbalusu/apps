@@ -52,3 +52,10 @@ git remote add origin git@github.com:ashokbalusu/apps.git
 git branch -M main
 git push -u origin main
 ```
+
+## Bootstrap
+### copy docs
+https://getbootstrap.com/
+
+### copy nav
+components
