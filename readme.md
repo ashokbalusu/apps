@@ -59,3 +59,17 @@ https://getbootstrap.com/
 
 ### copy nav
 components
+
+## wtf
+```
+pip install flask-wtf
+```
+
+### create a CSRF token in .py
+
+### bootstrap form overview
+user page
+
+### bootstrap flash alerts
+alerts in user page
+
